@@ -1,4 +1,4 @@
-# Code for `networkEEC_35.tex`
+# Code for `networkEEC`
 
 ```
 code/
